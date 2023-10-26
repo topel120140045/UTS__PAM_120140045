@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    Integer for SplashScreen-->
+    <integer name="font_weight_splash_screen">1000</integer>
+</resources>

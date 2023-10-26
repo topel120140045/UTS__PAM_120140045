@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UTS_PAM_120140045</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+<!--    SplashScreen-->
+    <string name="title_splash_screen">User Dev</string>
+
+<!--    Auth   -->
+    <string name="text_login">Login</string>
+    <string name="text_title_login">Login Page</string>
+    <string name="text_register">Register</string>
+    <string name="text_title_register">Register Page</string>
+</resources>
